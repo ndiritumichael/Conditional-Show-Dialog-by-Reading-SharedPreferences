@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ShowDialog</string>
+    <string name="reset_preference">Reset Preference</string>
+</resources>
